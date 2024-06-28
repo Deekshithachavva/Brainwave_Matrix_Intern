@@ -22,7 +22,7 @@ Checks if a provided domain is in a predefined list of blacklisted domains.
 1. **Clone the repository:**
 
    bash
-   git clone https://github.com/your-username/phishing-url-detection.git
+   git clone https://github.com/Deekshithachavva/Brainwave_Matrix_Intern/edit/main/scan_phishing.py
    cd phishing-url-detection
    
 
