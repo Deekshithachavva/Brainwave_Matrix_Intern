@@ -30,11 +30,13 @@ Checks if a provided domain is in a predefined list of blacklisted domains.
    ```bash
    # Example: pip install requests tldextract
 
-3. *modify the 'urls_to_scan' list in the script:* edit the 'urls_to_scan' list in 'phishing_detection.py' to include the URLs we want to check for phishing indicators.
+3. *modify the 'urls_to_scan' list in the script:*
+   edit the 'urls_to_scan' list in 'phishing_detection.py' to include the URLs we want to check for phishing indicators.
 4. *run the script :*
    ```bash
    python phishing_detection.py
- the script will output whether each URL in 'urls_to_scan' is safe or not as phishing based on the implemented criteria.
+   
+  the script will output whether each URL in 'urls_to_scan' is safe or not as phishing based on the implemented criteria.
  
 7. 
 8. 
