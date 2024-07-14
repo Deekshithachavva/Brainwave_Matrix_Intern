@@ -1,4 +1,4 @@
-#TASK1- Phishing URL Detection Script
+# TASK1- Phishing URL Detection Script
 
 This Python script detects potentially phishing URLs using keyword analysis, domain blacklisting, and redirection checks. It utilizes libraries such as `requests`, `urllib.parse`, and `tldextract` for URL parsing and analysis.
 
